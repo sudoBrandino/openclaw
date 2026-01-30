@@ -25,9 +25,12 @@ Welcome to the lobster tank! 🦞
 
 ## Before You PR
 - Test locally with your OpenClaw instance
-- Run linter: `npm run lint`
+- Run linter: `pnpm lint`
+- Run tests: `pnpm test`
 - Keep PRs focused (one thing per PR)
 - Describe what & why
+
+**Tip:** Run `prek install` to set up pre-commit hooks that run the same checks as CI.
 
 ## AI/Vibe-Coded PRs Welcome! 🤖
 
